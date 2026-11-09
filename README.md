@@ -1,2 +1,28 @@
-# CalculatorUsingJS
-A simple and interactive calculator built using HTML, CSS, and JavaScript. Supports basic arithmetic operations, percentage calculations, decimal inputs, clear and delete functionality, with a clean and user-friendly interface. Built to practice JavaScript fundamentals and DOM manipulation.
+# JavaScript Calculator
+
+A simple and responsive calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Addition, subtraction, multiplication and division
+- Clear (AC) functionality
+- Delete (DEL) functionality
+- Percentage calculation
+- Decimal number support
+- Interactive calculator interface
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## What I Learned
+- DOM manipulation
+- JavaScript functions
+- Event handling
+- String methods (`slice()`)
+- Basic error handling using try-catch
+
+## Future Improvements
+- Keyboard support
+- Better error handling
+- Improved calculation logic
